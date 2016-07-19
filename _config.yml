@@ -1,0 +1,14 @@
+layout_spectrum: 0.09818384097889066
+typography_spectrum: 0.34717038413509727
+color:
+  brandStrength: 0.4654895169660449
+  lightness: 0.7831961456686258
+  saturation: 0.005289525259286165
+  rhythmicContrast: 0.4055959389079362
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: robert
